@@ -1,0 +1,15 @@
+# Editor folder
+.vscode/
+.idea/
+.vs/
+
+Compiled files
+
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
